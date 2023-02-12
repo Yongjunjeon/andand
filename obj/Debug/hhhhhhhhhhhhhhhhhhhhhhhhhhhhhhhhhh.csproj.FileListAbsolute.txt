@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\ㄴㄴㄴㄴ\hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\obj\Debug\hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\ㄴㄴㄴㄴ\hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\bin\Debug\hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh.exe.config
+C:\Users\admin\Desktop\ㄴㄴㄴㄴ\hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\bin\Debug\hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh.exe
+C:\Users\admin\Desktop\ㄴㄴㄴㄴ\hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\bin\Debug\hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh.pdb
+C:\Users\admin\Desktop\ㄴㄴㄴㄴ\hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\obj\Debug\hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\ㄴㄴㄴㄴ\hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\obj\Debug\hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh.exe
+C:\Users\admin\Desktop\ㄴㄴㄴㄴ\hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\obj\Debug\hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh.pdb
